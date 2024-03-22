@@ -10,6 +10,6 @@ author: "Dongbo Hu, Yiming Liu"
 这里是我关于编程的一些思考...
 
 ![替代文本](/assets/image/Plot1.png)
-<iframe src="/assets/image/SF_Drug_Arrests_HeatMap.html" width="600" height="400"></iframe>
+<iframe src="/assets/image/SF_Drug_Arrests_HeatMap.html"></iframe>
 
 接下来的内容是...

@@ -9,6 +9,8 @@ author: "Dongbo Hu, Yiming Liu"
 
 这里是我关于编程的一些思考...
 
+![替代文本](/assets/image/P1.webp)
+
 ![替代文本](/assets/image/Plot1.png)
 
 SF地图

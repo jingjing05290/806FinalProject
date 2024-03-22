@@ -6,6 +6,6 @@ layout: base
 
 这里是我关于编程的一些思考...
 
-<img src="{{ '/assets/image/Plot1.png'}}" alt="替代文本">
+<img src="{{ '/assets/image/Plot1.png'}}">
 
 接下来的内容是...

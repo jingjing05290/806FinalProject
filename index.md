@@ -12,5 +12,7 @@ author: "Dongbo Hu, Yiming Liu"
 ![替代文本](/assets/image/Plot1.png)
 <iframe src="assets/image/SF_Drug_Arrests_HeatMap.html" height="600px" width="100%" style="border:none;" allowfullscreen="allowfullscreen"></iframe>
 
-<iframe src="assets/image/interactive_plot.html" height="600px" width="100%" style="border:none;" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="assets/image/interactive_plot.html" height="600px" width="100%" style="border:none;" allowfullscreen="allowfullscreen">
+  
+</iframe>
 接下来的内容是...

@@ -15,6 +15,6 @@ SF地图
 <iframe src="assets/image/SF_Drug_Arrests_HeatMap.html" height="600px" width="100%" style="border:none;" allowfullscreen="allowfullscreen"></iframe>
 
 这个地图是这个
-<iframe src="assets/image/interactive_plot.html" height="600px" width="100%" style="border:none;" allowfullscreen="allowfullscreen">
+<iframe src="assets/image/interactive_plot.html" height="600px" width="110%" style="border:none;" allowfullscreen="allowfullscreen">
 </iframe>
 接下来的内容是...

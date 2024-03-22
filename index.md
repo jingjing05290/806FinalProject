@@ -1,5 +1,6 @@
 ---
 layout: post
+title: 标题
 date: 2024-03-22
 author: "Dongbo Hu, Yiming Liu"
 ---

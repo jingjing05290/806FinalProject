@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: base
 ---
 
 # 欢迎来到我的网站

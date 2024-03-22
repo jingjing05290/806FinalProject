@@ -6,4 +6,6 @@ layout: base
 
 这里是我关于编程的一些思考...
 
+<img src="{{ '/assets/images/your-image-name.png' | relative_url }}" alt="替代文本">
+
 接下来的内容是...

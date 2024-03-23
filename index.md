@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tenderloin's Transformation: Highly Decline of the Drug Crimes in San Francisco's Heart"
+title: "Tenderloin's Transformation: Decline of the Drug Crimes in San Francisco's Heart"
 date: 2024-03-22
 author: "Dongbo Hu, Yiming Liu"
 ---

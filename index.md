@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tenderloin's Turnaround:The decline of a High-Drug Crime District in San Francisco
+title: The Decline of  Drug Crimes  in San Francisco's Tenderloin
 date: 2024-03-22
 author: "Dongbo Hu, Yiming Liu"
 ---

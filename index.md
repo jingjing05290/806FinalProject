@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tenderloins Renewal: Highly Decline of the Drug Crimes in San Francisco's Heart
+title:Tenderloins Renewal: Highly Decline of the Drug Crimes in San Franciscos Heart
 date: 2024-03-22
 author: "Dongbo Hu, Yiming Liu"
 ---

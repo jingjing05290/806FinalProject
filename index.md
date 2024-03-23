@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tenderloin's Turnaround: Tracing the Transformation of a High-Drug Crime District in San Francisco
+title: Tracing the Transformation of a High-Drug Crime District in San Francisco
 date: 2024-03-22
 author: "Dongbo Hu, Yiming Liu"
 ---

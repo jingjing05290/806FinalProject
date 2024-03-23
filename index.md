@@ -8,9 +8,9 @@ author: "Dongbo Hu, Yiming Liu"
 
 ![替代文本](/assets/image/P1.webp)
 
-Tenderloin is a neighborhood in downtown San Francisco that encompasses about 50 square blocks. This neighborhood has historically resisted gentrification,  squalid conditions, homelessness, crime, and illegal drug trade giving the neighborhood a seedy reputation. 
+Tenderloin is a neighborhood in downtown San Francisco that encompasses about 50 square blocks. The squalid conditions, homelessness, crime, and illegal drug trade giving this neighborhood a seedy reputation. Almost anyone who visits the area would not dispute its reputation: Substance abuse, poverty and human misery are out in the open.
 
-We can observe from the bar chart from 2003 to 2018 that the number of drug crimes in the Tenderloin District was several times that of other areas, and even reached a peak of nearly 4,900 cases in 2008. However, this tide turns post-2009, where we can observe the line graph intercepts with a descending trend, which demonstrates a trend of this district trying to shake off its illicit drug trade.
+How bad the Tenderloin actually was? And how does it compare to other “rough neighborhoods” in the city? From the analysis below, we can observe from 2003 to 2018 that the number of drug crimes in the Tenderloin District was several times that of other areas, and even reached a peak of nearly 4,900 cases in 2008. However, this tide turns post-2009, where we can observe the line graph intercepts with a descending trend, which demonstrates a trend of this district trying to shake off its illicit drug trade.
 
 ![替代文本](/assets/image/Plot1.png)
 

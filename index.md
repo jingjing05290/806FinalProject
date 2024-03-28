@@ -25,6 +25,7 @@ Through comprehensive analysis of the police station incident report dataset, wi
 
 <iframe src="assets/image/interactive_plot.html" height="600px" width="110%" style="border:none;" allowfullscreen="allowfullscreen">
   </iframe>
+  
 Upon examining the hourly drug and narcotic crime data in the Tenderloin district from 2008 to 2012, a pattern in local drug crime activity emerged. The data for 2008 was particularly striking, with crime activity peaking twice a day—once from 11 AM to 2 PM and again from 9 PM to 10 PM. The evening peak far exceeded those of other years, signifying the severe challenges Tenderloin faced that year. As the timeline progressed toward 2012, there was a significant decline in the number of crimes, with a shift to later in the day, suggesting that law enforcement strategies were taking effect, possibly aided by community intervention programs. This “tidal” effect of drug trading, syncing with the rhythm of city life and the cycle of day and night, revealed the hidden patterns of the drug market.
 
 

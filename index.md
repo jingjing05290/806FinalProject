@@ -43,7 +43,7 @@ Upon examining the hourly drug and narcotic crime data in the Tenderloin distric
 </div>
 
 <div style="text-align: justify;">
-However, Moving through the years towards 2012, there is a clear downward trend in the frequency of reported crimes, with the peak times shifting to later in the day. This suggests the possible impact of law enforcement's evolving strategies, which may include increased patrols during peak hours or crackdowns on known drug markets. Additionally, community intervention programs may have played a role in this decline, as local initiatives often aim to address the root causes of drug activity through outreach and support for at-risk populations.
+However, Moving through the years towards 2012, there is a clear downward trend in the frequency of reported crimes, with the peak times shifting to later in the day. This suggests the possible impact of law enforcement's evolving strategies, which may include increased patrols during peak hours or crackdowns on known drug markets. Additionally, community intervention programs may have played a role in this decline, as local initiatives often aim to address the root causes of drug activity through outreach and support for at-risk populations.<sup>[1](https://hoodline.com/2015/04/community-group-rallies-for-another-tenderloin-parking-removal/)</sup>
 </div>
 
 <div style="text-align: justify;">

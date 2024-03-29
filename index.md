@@ -7,8 +7,9 @@ author: "Dongbo Hu, Yiming Liu"
 
 
 ![替代文本](/assets/image/P1.webp)
-
+<div style="text-align: justify;">
 San Francisco has been cataloging all reported crimes within its boundaries, creating a detailed database “Police Department Incident Reports” which encompasses crime categories, temporal, and geographic data since 2003. This extensive archive allows us to have a deep dive into the city's crime dynamics and intricate details of criminal activities. Through the dataset, we found that among all the neighborhoods in San Francisco, the Tenderloin district distinguishes itself with pronounced issues of substance abuse and drug-related crimes. 
+</div>
 
 Our analysis shifts focus to the Tenderloin, specifically to compare its crime numbers—particularly related to drug crimes—with those in other challenged neighborhoods of the city.  Notably, our preliminary findings reveal a trend: despite its notoriety with drug crime in the past years, the Tenderloin has seen a consistent decline in drug crime rates over the years. This observation prompts us to delve deeper into this downward trend, seeking to uncover the factors and measures contributing to this decrease, to shed light on effective strategies for drug crime reduction across the Tenderloin neighborhood.
 

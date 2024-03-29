@@ -8,9 +8,9 @@ author: "Dongbo Hu, Yiming Liu"
 
 ![替代文本](/assets/image/P1.webp)
 
-Tenderloin is a neighborhood in downtown San Francisco that encompasses about 50 square blocks. The squalid conditions, homelessness, crime, and illegal drug trade giving this neighborhood a seedy reputation. Almost anyone who visits the area would not dispute its reputation: Substance abuse, poverty and human misery are out in the open.
+San Francisco has been cataloging all reported crimes within its boundaries, creating a detailed database “Police Department Incident Reports” which encompasses crime categories, temporal, and geographic data since 2003. This extensive archive allows us to have a deep dive into the city's crime dynamics and intricate details of criminal activities. Through the dataset, we found that among all the neighborhoods in San Francisco, the Tenderloin district distinguishes itself with pronounced issues of substance abuse and drug-related crimes. 
 
-How bad the Tenderloin was? And how does it compare to other “rough neighborhoods” in the city? Our exploration of these questions is anchored in a comprehensive analysis of the dataset "Police Department Incident Reports" which spans from 2003 to 2018 and with a spotlight on the Tenderloin district's drug crimes reports.
+Our analysis shifts focus to the Tenderloin, specifically to compare its crime numbers—particularly related to drug crimes—with those in other challenged neighborhoods of the city.  Notably, our preliminary findings reveal a trend: despite its notoriety with drug crime in the past years, the Tenderloin has seen a consistent decline in drug crime rates over the years. This observation prompts us to delve deeper into this downward trend, seeking to uncover the factors and measures contributing to this decrease, to shed light on effective strategies for drug crime reduction across the Tenderloin neighborhood.
 
 ![替代文本](/assets/image/Plot1.png)
 

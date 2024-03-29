@@ -18,10 +18,7 @@ From the above analysis graph, we can conclude that from 2003 to 2008, the numbe
 
 <iframe src="assets/image/map.html" height="600px" width="100%" style="border:none;" allowfullscreen="allowfullscreen"></iframe>
 
-Through comprehensive analysis of the police station incident report dataset, with a particular focus on drug crime reports, we found that drug crimes are not only prevalent on every street but also that the majority of criminal activities are concentrated at intersections. Specifically, at the intersection of Ellis Street and Jones Street, as well as three hotels on Turk Street, drug trading activities are exceptionally frequent. The privacy and anonymity provided by these locations' hotels have become a haven for drug traders, attracting a large number of people seeking drugs.
-![替代文本](/assets/image/P2.png)
-
-Meanwhile, a parking lot on Hyde Street also exhibits significant drug crime activity. This location, once adjacent to a strip club, was later transformed into luxury apartments. This change may signify an improvement in the area's security situation and reflects the potential impact of urban renewal on the management of drug crimes.
+Through comprehensive analysis of the police station incident report dataset, with a particular focus on drug crime reports, we found that drug crimes are not only prevalent on every street but also that the majority of criminal activities are concentrated at intersections. Specifically, at the intersection of Ellis Street and Jones Street, as well as three hotels on Turk Street, drug trading activities are exceptionally frequent. The privacy and anonymity provided by these locations' hotels have become a haven for drug traders, attracting a large number of people seeking drugs. Meanwhile, a parking lot on Hyde Street also exhibits significant drug crime activity. This location, once adjacent to a strip club, was later transformed into luxury apartments. This change may signify an improvement in the area's security situation and reflects the potential impact of urban renewal on the management of drug crimes.
 
 <iframe src="assets/image/interactive_plot.html" height="600px" width="110%" style="border:none;" allowfullscreen="allowfullscreen">
   </iframe>

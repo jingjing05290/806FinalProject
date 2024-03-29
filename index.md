@@ -39,7 +39,11 @@ Specifically, the intersection of Turk Street and Taylor Street is originally ho
   </iframe>
 
 <div style="text-align: justify;">
-Upon examining the hourly drug and narcotic crime data in the Tenderloin district from 2008 to 2012, a pattern in local drug crime activity emerged. The data for 2008 was particularly striking, with crime activity peaking twice a day—once from 11 AM to 2 PM and again from 9 PM to 10 PM. The evening peak far exceeded those of other years, signifying the severe challenges Tenderloin faced that year. As the timeline progressed toward 2012, there was a significant decline in the number of crimes, with a shift to later in the day, suggesting that law enforcement strategies were taking effect, possibly aided by community intervention programs. This “tidal” effect of drug trading, syncing with the rhythm of city life and the cycle of day and night, revealed the hidden patterns of the drug market.
+Upon examining the hourly drug and narcotic crime data in the Tenderloin district from 2008 to 2012, the graph above reveals a distinct pattern of local drug crime activity. From 2008 to 2009, the data shows a pronounced pattern of crime peaking twice within a day—once during midday from 11 AM to 2 PM and other peaks from 9 PM to 10 PM. The midday peak in these years far surpasses those of the subsequent years, highlighting the intense challenges Tenderloin faced during this period.
+</div>
+
+<div style="text-align: justify;">
+However, Moving through the years towards 2012, there is a clear downward trend in the frequency of reported crimes, with the peak times shifting to later in the day. This suggests the possible impact of law enforcement's evolving strategies, which may include increased patrols during peak hours or crackdowns on known drug markets. Additionally, community intervention programs may have played a role in this decline, as local initiatives often aim to address the root causes of drug activity through outreach and support for at-risk populations.
 </div>
 
 <div style="text-align: justify;">

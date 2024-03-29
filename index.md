@@ -16,13 +16,12 @@ Our analysis shifts focus to the Tenderloin, specifically to compare its crime n
 
 From the above analysis graph, we can conclude that from 2003 to 2008, the number of drug crimes in the Tenderloin District was several times that of other areas and even reached a peak of nearly 4,900 cases in 2008, which clearly indicates that the Tenderloin is the epicenter of the city’s drug crisis in that period. However, this tide turned since 2010. The data shows that reports of drug crimes keeps falling in Tenderloin since 2010, with drug crimes recorded much fewer than they were one year ago, which demonstrates a trend of this district trying to shake off its illicit drug trade.
 
-HeatMap地图
-<iframe src="assets/image/SF_Drug_Arrests_HeatMap.html" height="600px" width="100%" style="border:none;" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="assets/image/map.html" height="600px" width="100%" style="border:none;" allowfullscreen="allowfullscreen"></iframe>
 
 Through comprehensive analysis of the police station incident report dataset, with a particular focus on drug crime reports, we found that drug crimes are not only prevalent on every street but also that the majority of criminal activities are concentrated at intersections. Specifically, at the intersection of Ellis Street and Jones Street, as well as three hotels on Turk Street, drug trading activities are exceptionally frequent. The privacy and anonymity provided by these locations' hotels have become a haven for drug traders, attracting a large number of people seeking drugs.
 ![替代文本](/assets/image/P2.png)
 
- Meanwhile, a parking lot on Hyde Street also exhibits significant drug crime activity. This location, once adjacent to a strip club, was later transformed into luxury apartments. This change may signify an improvement in the area's security situation and reflects the potential impact of urban renewal on the management of drug crimes.
+Meanwhile, a parking lot on Hyde Street also exhibits significant drug crime activity. This location, once adjacent to a strip club, was later transformed into luxury apartments. This change may signify an improvement in the area's security situation and reflects the potential impact of urban renewal on the management of drug crimes.
 
 <iframe src="assets/image/interactive_plot.html" height="600px" width="110%" style="border:none;" allowfullscreen="allowfullscreen">
   </iframe>

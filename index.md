@@ -28,7 +28,7 @@ Why has there been a steady increase in earlier years and then followed by a dec
 <iframe src="assets/image/map.html" height="600px" width="100%" style="border:none;" allowfullscreen="allowfullscreen"></iframe>
 
 <div style="text-align: justify;">
-The map above highlights the pervasive nature of drug crimes throughout the Tenderloin. In the map, three high rates of drug crimes areas' landmarks and street characteristics can be seen by interacting with the markers placed on the map. Upon our examination, we observe that drug crimes primarily cluster around certain locations such as parking lots, hotels, clubs, parks, and community centers—areas with high foot traffic and obstacles that can conceal criminal activities. 
+The map above shows the  geographical distribution of drug crimes throughout the Tenderloin in 2008. In the map, three high rates of drug crimes areas' landmarks and street characteristics can be seen by interacting with the markers placed on the map. Upon our examination, we observe that drug crimes primarily cluster around certain locations such as parking lots, hotels, clubs, parks, and community centers—areas with high foot traffic and obstacles that can conceal criminal activities. 
 </div>
 
 <div style="text-align: justify;">

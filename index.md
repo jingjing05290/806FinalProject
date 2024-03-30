@@ -47,5 +47,5 @@ However, Moving through the years towards 2012, there is a clear downward trend 
 </div>
 
 <div style="text-align: justify;">
-The Tenderloin district's transformation from 2003 to 2018 is a story of urban redemption, marked by a sharp decline in drug crimes from a 2008 peak. Analysis of drug-related incidents, particularly at key intersections and hotels, shows law enforcement and community interventions taking effect. By 2012, these efforts culminated in significantly reduced crime rates, signaling a turn towards safety and community rejuvenation, showcasing the impactful synergy of strategic policies and collective commitment to urban improvement.
+In summary, the analysis demonstrates a notable decline in drug-related crimes in San Francisco's Tenderloin district, a significant shift from its peak in 2008. This trend suggests the effectiveness of targeted strategies, including law enforcement efforts and urban renewal initiatives.  Future research could delve into evaluating the impact of measures implemented by law enforcement, aiming to identify which interventions have been most effective in reducing drug crimes.
 </div>

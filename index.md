@@ -5,8 +5,9 @@ date: 2024-03-22
 author: "Dongbo Hu, Yiming Liu"
 ---
 
-###Introduction
+
 ![替代文本](/assets/image/P1.webp)
+## Introduction
 <div style="text-align: justify;">
 San Francisco has been cataloging all reported crimes within its boundaries, creating a detailed database “Police Department Incident Reports” which encompasses crime categories, temporal, and geographic data since 2003. This extensive archive allows us to have a deep dive into the city's crime dynamics and intricate details of criminal activities. Through the dataset, we found that among all the neighborhoods in San Francisco, the Tenderloin district distinguishes itself with pronounced issues of substance abuse and drug-related crimes. 
 </div>

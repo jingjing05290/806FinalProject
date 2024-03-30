@@ -39,7 +39,7 @@ Specifically, the intersection of Turk Street and Taylor Street is originally ho
   </iframe>
 
 <div style="text-align: justify;">
-Upon examining the hourly drug and narcotic crime data in the Tenderloin district from 2008 to 2012, the graph above reveals a distinct pattern of local drug crime activity. From 2008 to 2009, the data shows a pronounced pattern of crime peaking twice within a day—once during midday from 11 AM to 2 PM and other peaks from 9 PM to 10 PM. The midday peak in these years far surpasses those of the subsequent years, highlighting the intense challenges Tenderloin faced during this period.
+Although the heatmap provides a visual overview of regional distribution, it is hard to see a comparison of drug crime between different years and hours in a Tenderloin. The graph above are able to be clicked on a year to make its corresponding curve appear or disappear. Upon examining the hourly drug and narcotic crime data in the Tenderloin district from 2008 to 2012, we observed a distinct pattern of local drug crime activity. Specifically, from 2008 to 2009, the data shows a pronounced pattern of crime peaking twice within a day—once during midday from 11 AM to 2 PM and other peaks from 9 PM to 10 PM. The midday peak in these years far surpasses those of the subsequent years, highlighting the intense challenges Tenderloin faced during this period.
 </div>
 
 <div style="text-align: justify;">

@@ -25,7 +25,7 @@ New York City residents rely on tap water for their daily consumption. However, 
 
 
 
-<iframe src="assets/image/lead_concentration1.html" height="440px" width="100%" style="border:none;" allowfullscreen="allowfullscreen">
+<iframe src="assets/image/lead_concentration3.html" height="440px" width="100%" style="border:none;" allowfullscreen="allowfullscreen">
   </iframe>
 <div style="text-align: justify;margin-bottom: 10px;">
 According to the data in the figure, we can see that the annual average lead levels in 2014, 2015 and 2018 all exceeded the safety standard of 0.01 mg/L defined by the World Health Organization. This shows that New York City's water system does have safety risks when it comes to ensuring safe water quality. Especially when the old water supply system fails to be updated and upgraded in time, the safety of residents' drinking water still cannot be fully guaranteed.

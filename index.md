@@ -23,6 +23,8 @@ However, as we find in the dataset of "NYC_EH_Data_Portal", between 2001 and 200
 New York City residents rely on tap water for their daily consumption. However, the city's plumbing infrastructure is extensive and was largely constructed in earlier centuries when the contains of lead in pipes was common due to the technological limitations of the time. These pipes are now very old and, given their vast number and the complexity of the system, they are challenging to maintain and replace. Consequently, there is a significant risk that these aging pipes could lead to lead levels in the water supply exceeding safe standards. This situation could be one of the reasons why New York City had an elevated average annual lead rate(10 mg/L)  per 100000 people during the early 2010s.
 </div>
 
+<iframe src="assets/image/lead_concentration.html" height="400px" width="100%" style="border:none;" allowfullscreen="allowfullscreen">
+  </iframe>
 <div style="text-align: justify;margin-bottom: 10px;">
 According to the data in the figure, we can see that the annual average lead levels in 2014, 2015 and 2018 all exceeded the safety standard of 0.01 mg/L defined by the World Health Organization. This shows that New York City's water system does have safety risks when it comes to ensuring safe water quality. Especially when the old water supply system fails to be updated and upgraded in time, the safety of residents' drinking water still cannot be fully guaranteed.
 </div>

@@ -20,7 +20,7 @@ However, as we find in the dataset of "NYC_EH_Data_Portal", between 2010 and 201
   </iframe>
   
 <div style="text-align: justify;margin-bottom: 10px;">
-New York City residents rely on tap water for their daily consumption. However, the city's plumbing infrastructure is extensive and was largely constructed in earlier centuries when the contains of lead in pipes was common due to the technological limitations of the time. These pipes are now very old and, given their vast number and the complexity of the system, they are challenging to maintain and replace. Consequently, there is a significant risk that these aging pipes could lead to lead levels in the water supply exceeding safe standards. This situation could be one of the reasons why New York City had an elevated average annual lead rate(10 mg/L)  per 100000 people during the early 2010s.
+New York City’s water is delivered from upstate reservoirs through lead-free aqueducts and water mains. While the use of lead in household plumbing has been banned for decades, some older homes—particularly single family houses built in the 1910s through 1930s—may still have lead pipes and fixtures.  These pipes are now very old and, given their vast number and the complexity of the system, they are challenging to maintain and replace. Consequently, there is a significant risk that these aging pipes could lead to lead levels in the water supply exceeding safe standards. This situation could be one of the reasons why New York City had an elevated average annual lead rate(10 mg/L)  per 100000 people during the early 2010s.
 </div>
 
 
@@ -41,7 +41,7 @@ It can be clearly seen from the above geographical data map that the lead conten
 
 
 ![替代文本](/assets/image/Lead_Concentration_Queens.png)
-The graph above shows that lead levels in water began to decrease year by year from 2015 to 2019. This is good news and shows that the lead concentration in almost all samples in 2019 was below the safety threshold, reflecting a significant improvement in the quality of water bodies. It could be due to things like plumbing improvements or maintenance. However, what we can also see from the data as a potential problem is that the 2020 data shows a slight rebound in lead concentrations.
+The graph above shows that lead levels in water began to decrease year by year from 2015 to 2019. This is good news and shows that the lead concentration in almost all samples in 2019 was below the safety threshold, reflecting a significant improvement in the quality of water bodies. It could be due to things like plumbing improvements or maintenance likeWe one treatment is adjusting the pH and by adding phosphoric acid, a common food additive, which forms a protective barrier on plumbing. However, what we can also see from the data as a potential problem is that the 2020 data shows a slight rebound in lead concentrations.
 
 
 <iframe src="assets/image/lead_exposure_queens_20104.html" height="440px" width="100%" style="border:none;" allowfullscreen="allowfullscreen">
@@ -57,7 +57,7 @@ According to the above graph, between 2010 and 2018, the annual average rate of 
 
 ### Conclusion
 <div style="text-align: justify;margin-bottom: 10px;">
-In summary, while New York City has made laudable progress in addressing lead contamination over the past few years, the journey toward full lead compliance still continues, especially as lead levels in drinking water have rebounded in recent years. 
+In summary, while New York City has made laudable progress in addressing lead contamination over the past few years, the process of comprehensive lead compliance continues, especially as lead levels in drinking water have rebounded in recent years. In addition to maintaining pipes, informing residents about the correct handling of lead in tap water is also a measure to artificially reduce lead levels. For instance, lead that is in household plumbing can dissolve into water, particularly when the water has not been used for several hours, so residents with lead plumbing can run the water from their tap until it turns noticeably colder before drinking it.
 </div>
 
 ### Reference Link

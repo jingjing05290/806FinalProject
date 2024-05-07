@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Bokeh Plot</title>
+    <style>
+      html, body {
+        box-sizing: border-box;
+        display: flow-root;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+    <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-3.2.1.min.js"></script>
+    <script type="text/javascript">
+        Bokeh.set_log_level("info");
+    </script>
+  </head>
+  <body>
+    <div id="c43d5b8d-12d6-49d3-921c-f6ea3cb005ff" data-root-id="p1429" style="display: contents;"></div>
+  
+    <script type="application/json" id="p1465">
+      {"11202ddb-ab1f-49f8-add2-69ca4662f201":{"version":"3.2.1","title":"Bokeh Application","roots":[{"type":"object","name":"Figure","id":"p1429","attributes":{"height":440,"x_range":{"type":"object","name":"FactorRange","id":"p1439","attributes":{"factors":["2014","2015","2016","2017","2018"]}},"y_range":{"type":"object","name":"DataRange1d","id":"p1431","attributes":{"start":0}},"x_scale":{"type":"object","name":"CategoricalScale","id":"p1440"},"y_scale":{"type":"object","name":"LinearScale","id":"p1441"},"title":{"type":"object","name":"Title","id":"p1432","attributes":{"text":"Average Lead Concentration by Year (2014-2018)"}},"renderers":[{"type":"object","name":"GlyphRenderer","id":"p1458","attributes":{"data_source":{"type":"object","name":"ColumnDataSource","id":"p1426","attributes":{"selected":{"type":"object","name":"Selection","id":"p1427","attributes":{"indices":[],"line_indices":[]}},"selection_policy":{"type":"object","name":"UnionRenderers","id":"p1428"},"data":{"type":"map","entries":[["Year",["2014","2015","2016","2017","2018"]],["AverageLead",{"type":"ndarray","array":{"type":"bytes","data":"vK8V/Q5VhT+ngylTLOSKP54/jX6XcnM/81FwyHF5ez+uSxT35LWIPw=="},"shape":[5],"dtype":"float64","order":"little"}]]}}},"view":{"type":"object","name":"CDSView","id":"p1459","attributes":{"filter":{"type":"object","name":"AllIndices","id":"p1460"}}},"glyph":{"type":"object","name":"VBar","id":"p1455","attributes":{"x":{"type":"field","field":"Year"},"width":{"type":"value","value":0.5},"top":{"type":"field","field":"AverageLead"}}},"nonselection_glyph":{"type":"object","name":"VBar","id":"p1456","attributes":{"x":{"type":"field","field":"Year"},"width":{"type":"value","value":0.5},"top":{"type":"field","field":"AverageLead"},"line_alpha":{"type":"value","value":0.1},"fill_alpha":{"type":"value","value":0.1},"hatch_alpha":{"type":"value","value":0.1}}},"muted_glyph":{"type":"object","name":"VBar","id":"p1457","attributes":{"x":{"type":"field","field":"Year"},"width":{"type":"value","value":0.5},"top":{"type":"field","field":"AverageLead"},"line_alpha":{"type":"value","value":0.2},"fill_alpha":{"type":"value","value":0.2},"hatch_alpha":{"type":"value","value":0.2}}}}}],"toolbar":{"type":"object","name":"Toolbar","id":"p1438","attributes":{"tools":[{"type":"object","name":"HoverTool","id":"p1463","attributes":{"renderers":"auto","tooltips":[["Year","@Year"],["Avg Lead (mg/L)","@AverageLead"]]}}]}},"toolbar_location":null,"left":[{"type":"object","name":"LinearAxis","id":"p1447","attributes":{"ticker":{"type":"object","name":"BasicTicker","id":"p1448","attributes":{"mantissas":[1,2,5]}},"formatter":{"type":"object","name":"BasicTickFormatter","id":"p1449"},"major_label_policy":{"type":"object","name":"AllLabels","id":"p1450"}}}],"below":[{"type":"object","name":"CategoricalAxis","id":"p1442","attributes":{"ticker":{"type":"object","name":"CategoricalTicker","id":"p1443"},"formatter":{"type":"object","name":"CategoricalTickFormatter","id":"p1444"},"major_label_policy":{"type":"object","name":"AllLabels","id":"p1445"}}}],"center":[{"type":"object","name":"Grid","id":"p1446","attributes":{"axis":{"id":"p1442"},"grid_line_color":null}},{"type":"object","name":"Grid","id":"p1451","attributes":{"dimension":1,"axis":{"id":"p1447"}}},{"type":"object","name":"Legend","id":"p1461","attributes":{"location":"top_center","orientation":"horizontal","items":[{"type":"object","name":"LegendItem","id":"p1462","attributes":{"label":{"type":"value","value":"Average Lead Concentration"},"renderers":[{"id":"p1458"}]}}]}}]}}]}}
+    </script>
+    <script type="text/javascript">
+      (function() {
+        const fn = function() {
+          Bokeh.safely(function() {
+            (function(root) {
+              function embed_document(root) {
+              const docs_json = document.getElementById('p1465').textContent;
+              const render_items = [{"docid":"11202ddb-ab1f-49f8-add2-69ca4662f201","roots":{"p1429":"c43d5b8d-12d6-49d3-921c-f6ea3cb005ff"},"root_ids":["p1429"]}];
+              root.Bokeh.embed.embed_items(docs_json, render_items);
+              }
+              if (root.Bokeh !== undefined) {
+                embed_document(root);
+              } else {
+                let attempts = 0;
+                const timer = setInterval(function(root) {
+                  if (root.Bokeh !== undefined) {
+                    clearInterval(timer);
+                    embed_document(root);
+                  } else {
+                    attempts++;
+                    if (attempts > 100) {
+                      clearInterval(timer);
+                      console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing");
+                    }
+                  }
+                }, 10, root)
+              }
+            })(window);
+          });
+        };
+        if (document.readyState != "loading") fn();
+        else document.addEventListener("DOMContentLoaded", fn);
+      })();
+    </script>
+  </body>
+</html>

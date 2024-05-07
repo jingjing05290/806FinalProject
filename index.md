@@ -33,6 +33,8 @@ According to the data in the figure, we can see that the annual average lead lev
 
 
 ### Geographical distribution
+<iframe src="assets/image/nyc_lead_levels_choropleth.html" height="440px" width="100%" style="border:none;" allowfullscreen="allowfullscreen">
+  </iframe>
 <div style="text-align: justify;margin-bottom: 10px;">
 
 </div>

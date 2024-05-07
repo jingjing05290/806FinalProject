@@ -32,15 +32,12 @@ According to the data in the figure, we can see that the annual average lead lev
 </div>
 
 
-### Geographical distribution
+### Geographical Analysis
 <iframe src="assets/image/nyc_lead_levels_choropleth.html" height="440px" width="100%" style="border:none;" allowfullscreen="allowfullscreen">
   </iframe>
 <div style="text-align: justify;margin-bottom: 10px;">
-
+It can be clearly seen from the above geographical data map that the lead content in Queens, New York City, is much higher than other areas. The average lead level is 11.09 µg/l, which is significantly higher than other areas. This striking difference may be related to Queens-specific environmental factors. Queens is the largest borough in New York City, with a large population and numerous industrial facilities. Relatively poor infrastructure, especially aging water pipe systems and outdated industrial equipment, may be a major contributor to high lead levels in water. In addition, Queens’ large area and population density may complicate the challenges of water quality monitoring and pipeline renewal, increasing the difficulty of keeping water quality safe.
 </div>
-
-
-
 
 
 ![替代文本](/assets/image/Lead_Concentration_Queens.png)
@@ -60,7 +57,7 @@ According to the above graph, between 2010 and 2018, the annual average rate of 
 
 ### Conclusion
 <div style="text-align: justify;margin-bottom: 10px;">
-
+In summary, while New York City has made laudable progress in addressing lead contamination over the past few years, the journey toward full lead compliance still continues, especially as lead levels in drinking water have rebounded in recent years. 
 </div>
 
 ### Reference Link

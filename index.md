@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Tenderloin's Transformation: Decline of the Drug Crimes in San Francisco's Heart"
-date: 2024-03-22
+title: "The transformation of New York City’s tap water lead contamination problem"
+date: 2024-05-07
 author: "Dongbo Hu, Yiming Liu"
 ---
 
@@ -53,13 +53,11 @@ According to the above graph, between 2010 and 2018, the annual average rate of 
 
 
 
-
-
 ### Conclusion
 <div style="text-align: justify;margin-bottom: 10px;">
 In summary, while New York City has made laudable progress in addressing lead contamination over the past few years, the process of comprehensive lead compliance continues, especially as lead levels in drinking water have rebounded in recent years. In addition to maintaining pipes, informing residents about the correct handling of lead in tap water is also a measure to artificially reduce lead levels. For instance, lead that is in household plumbing can dissolve into water, particularly when the water has not been used for several hours, so residents with lead plumbing can run the water from their tap until it turns noticeably colder before drinking it.
 </div>
 
 ### Reference Link
-<a href="https://hoodline.com/2015/04/community-group-rallies-for-another-tenderloin-parking-removal/"><sup>[1]Community Group Gathers Support for Eddy Street Parking Removal</sup></a>
+<a href="https://www.nyc.gov/site/dep/water/lead-in-household-plumbing-faq.page"><sup>[1]NYC.gov</sup></a>
 

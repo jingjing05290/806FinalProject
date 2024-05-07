@@ -14,10 +14,14 @@ Lead is a harmful metal that can have severe long-term effects on human health, 
 
 ![替代文本](/assets/image/PP1.jpg)
 
+However, as we find in the dataset of "NYC_EH_Data_Portal", between 2001 and 2003, about 3566 people living in New York aged 16 or older (a rate of 35 people per 100,000) had blood lead levels of 10 micrograms per deciliter or higher — the level the Centers for Disease Control and Prevention uses to define an elevated blood lead level for adults, which underscores lead exposure is a significant problem in that period of New York. What caused this? Is the situation in New York getting better now? Our analysis wants to do further exploration based on those two questions.
+
 <iframe src="assets/image/F1.html" height="400px" width="100%" style="border:none;" allowfullscreen="allowfullscreen">
   </iframe>
-
-
+  
+<div style="text-align: justify;margin-bottom: 10px;">
+New York City residents rely on tap water for their daily consumption. However, the city's plumbing infrastructure is extensive and was largely constructed in earlier centuries when the contains of lead in pipes was common due to the technological limitations of the time. These pipes are now very old and, given their vast number and the complexity of the system, they are challenging to maintain and replace. Consequently, there is a significant risk that these aging pipes could lead to lead levels in the water supply exceeding safe standards. This situation could be one of the reasons why New York City had an elevated average annual lead rate(10 mg/L)  per 100000 people during the early 2000s.
+</div>
 
 <div style="text-align: justify;margin-bottom: 10px;">
 

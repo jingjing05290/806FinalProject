@@ -7,6 +7,10 @@ author: "Dongbo Hu, Yiming Liu"
 
 
 ![替代文本](/assets/image/NYC.webp)
+### Our NoteBook Link
+<a href="https://github.com/jingjing05290/806FinalProject/blob/master/Final_Assignment_Part_B(Include%20Website%20Link).ipynb"><sup>NoteBook for Final_Assignment_Part_B</sup></a>
+
+
 ### Introduction
 <div style="text-align: justify;margin-bottom: 10px;">
 Lead is a harmful metal that can have severe long-term effects on human health, even at trace levels. Studies have shown that exposure to lead not only profoundly affects the growth and development of children but also poses significant risks to adults, including increased blood pressure and problems with kidney and brain function. Crucially, even low levels can lead to health issues. Prolonged exposure to lead results in its accumulation in the body, and the longer the exposure, the more challenging it becomes for the body to eliminate the toxin. As most people with elevated blood lead levels do not look or feel sick, which can make lead poisoning hard to identify, lead poisoning remains a significant public health concern.

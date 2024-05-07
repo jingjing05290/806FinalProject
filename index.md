@@ -14,7 +14,7 @@ Lead is a harmful metal that can have severe long-term effects on human health, 
 
 ![替代文本](/assets/image/PP1.jpg)
 
-However, as we find in the dataset of "NYC_EH_Data_Portal", between 2001 and 2003, about 3566 people living in New York aged 16 or older (a rate of 35 people per 100,000) had blood lead levels of 10 micrograms per deciliter or higher — the level the Centers for Disease Control and Prevention uses to define an elevated blood lead level for adults, which underscores lead exposure is a significant problem in that period of New York. What caused this? Is the situation in New York getting better now? Our analysis wants to do further exploration based on those two questions.
+However, as we find in the dataset of "NYC_EH_Data_Portal", between 2010 and 2012, about 2413 people living in New York aged 16 or older (a rate of 23 people per 100,000) had blood lead levels of 10 micrograms per deciliter or higher — the level the Centers for Disease Control and Prevention uses to define an elevated blood lead level for adults, which underscores lead exposure is a significant problem in that period of New York. What caused this? Is the situation in New York getting better now? Our analysis wants to do further exploration based on those two questions.
 
 <iframe src="assets/image/lead_exposure_rates.html" height="400px" width="100%" style="border:none;" allowfullscreen="allowfullscreen">
   </iframe>

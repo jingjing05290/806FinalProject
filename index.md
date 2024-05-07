@@ -23,6 +23,8 @@ However, as we find in the dataset of "NYC_EH_Data_Portal", between 2010 and 201
 New York City residents rely on tap water for their daily consumption. However, the city's plumbing infrastructure is extensive and was largely constructed in earlier centuries when the contains of lead in pipes was common due to the technological limitations of the time. These pipes are now very old and, given their vast number and the complexity of the system, they are challenging to maintain and replace. Consequently, there is a significant risk that these aging pipes could lead to lead levels in the water supply exceeding safe standards. This situation could be one of the reasons why New York City had an elevated average annual lead rate(10 mg/L)  per 100000 people during the early 2010s.
 </div>
 
+
+
 <iframe src="assets/image/lead_concentration.html" height="400px" width="100%" style="border:none;" allowfullscreen="allowfullscreen">
   </iframe>
 <div style="text-align: justify;margin-bottom: 10px;">
@@ -39,17 +41,15 @@ According to the data in the figure, we can see that the annual average lead lev
 
 
 
-<iframe src="assets/image/lead_exposure_queens_2010.html" height="400px" width="100%" style="border:none;" allowfullscreen="allowfullscreen">
-  </iframe>
-
-
+![替代文本](/assets/image/Lead_Concentration_Queens.png)
+The graph above shows that lead levels in water began to decrease year by year from 2015 to 2019. This is good news and shows that the lead concentration in almost all samples in 2019 was below the safety threshold, reflecting a significant improvement in the quality of water bodies. It could be due to things like plumbing improvements or maintenance. However, what we can also see from the data as a potential problem is that the 2020 data shows a slight rebound in lead concentrations.
 
 
 <iframe src="assets/image/lead_exposure_queens_2010.html" height="400px" width="100%" style="border:none;" allowfullscreen="allowfullscreen">
   </iframe>
 
 <div style="text-align: justify;margin-bottom: 10px;">
-It can be observed from the graph provided that from 2010 to 2018, the annual average rate of blood lead levels exceeding 10 μg/dL per 100,000 people in the Queens area gradually decreased from 30.00 in 2010-2012 to 2016-2018. 19.10, which indicates that during these 8 years, the lead exposure problem in the area has been effectively controlled and reduced, possibly due to factors such as stricter environmental regulations or pipeline improvement or maintenance. It is particularly worth noting that the decline slowed down between 2013 and 2015 and then stabilized, indicating that although the overall downward trend is obvious, the decline in recent years has not been as large as in previous years.
+According to the above graph, between 2010 and 2018, the annual average rate of blood lead levels exceeding 10 micrograms per deciliter per 100,000 people in Queens, New York, gradually decreased from 30.00 to 19.10. This shows that during these 8 years, the lead exposure problem in the area has been effectively controlled and the overall trend showed a decline, the rate of decline slowed between 2013 and 2015 and then stabilized. However, we still need to be wary of a potential rebound in lead levels in residents' blood, especially given that we do not have data after 2018 and the previous graph analysis shows that water quality data indicate that lead levels are gradually rising, so continued monitoring and prevention Measures are necessary.
 </div>
 
 

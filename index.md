@@ -30,37 +30,31 @@ According to the data in the figure, we can see that the annual average lead lev
 </div>
 
 
-### Overall trend analysis
-<div style="text-align: justify;margin-bottom: 10px;">
-
-</div>
-
-<div style="text-align: justify;margin-bottom: 10px;">
-
-</div>
-
-<iframe src="assets/image/map.html" height="600px" width="100%" style="border:none;" allowfullscreen="allowfullscreen"></iframe>
-
 ### Geographical distribution
 <div style="text-align: justify;margin-bottom: 10px;">
 
 </div>
 
-<div style="text-align: justify;margin-bottom: 10px;">
 
-</div>
 
-<iframe src="assets/image/Intermap.html" height="400px" width="100%" style="border:none;" allowfullscreen="allowfullscreen">
+
+
+<iframe src="assets/image/lead_exposure_queens_2010.html" height="400px" width="100%" style="border:none;" allowfullscreen="allowfullscreen">
   </iframe>
 
-### Hourly trend analysis
-<div style="text-align: justify;margin-bottom: 10px;">
 
+
+
+<iframe src="assets/image/lead_exposure_queens_2010.html" height="400px" width="100%" style="border:none;" allowfullscreen="allowfullscreen">
+  </iframe>
+
+<div style="text-align: justify;margin-bottom: 10px;">
+It can be observed from the graph provided that from 2010 to 2018, the annual average rate of blood lead levels exceeding 10 μg/dL per 100,000 people in the Queens area gradually decreased from 30.00 in 2010-2012 to 2016-2018. 19.10, which indicates that during these 8 years, the lead exposure problem in the area has been effectively controlled and reduced, possibly due to factors such as stricter environmental regulations or pipeline improvement or maintenance. It is particularly worth noting that the decline slowed down between 2013 and 2015 and then stabilized, indicating that although the overall downward trend is obvious, the decline in recent years has not been as large as in previous years.
 </div>
 
-<div style="text-align: justify;margin-bottom: 10px;">
 
-</div>
+
+
 
 ### Conclusion
 <div style="text-align: justify;margin-bottom: 10px;">
